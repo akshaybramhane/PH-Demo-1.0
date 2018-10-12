@@ -1,0 +1,140 @@
+[
+    [
+        "C:\\Users\\IT Admin\\Documents\\PowerHour 2.0\\PH Demo 1 Project\\PHDemo1\\force-app",
+        {
+            "sourcePath": "C:\\Users\\IT Admin\\Documents\\PowerHour 2.0\\PH Demo 1 Project\\PHDemo1\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539336310304,
+            "changeTime": 1539336310304,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\IT Admin\\Documents\\PowerHour 2.0\\PH Demo 1 Project\\PHDemo1\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\IT Admin\\Documents\\PowerHour 2.0\\PH Demo 1 Project\\PHDemo1\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539336310305,
+            "changeTime": 1539336310305,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\IT Admin\\Documents\\PowerHour 2.0\\PH Demo 1 Project\\PHDemo1\\force-app\\main\\default",
+        {
+            "sourcePath": "C:\\Users\\IT Admin\\Documents\\PowerHour 2.0\\PH Demo 1 Project\\PHDemo1\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539337936704,
+            "changeTime": 1539337936704,
+            "contentHash": "130de8bfb499104b352aabe71a42cbc685e1ae94",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\IT Admin\\Documents\\PowerHour 2.0\\PH Demo 1 Project\\PHDemo1\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\IT Admin\\Documents\\PowerHour 2.0\\PH Demo 1 Project\\PHDemo1\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539336310305,
+            "changeTime": 1539336310305,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\IT Admin\\Documents\\PowerHour 2.0\\PH Demo 1 Project\\PHDemo1",
+        {
+            "sourcePath": "C:\\Users\\IT Admin\\Documents\\PowerHour 2.0\\PH Demo 1 Project\\PHDemo1",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539337279443,
+            "changeTime": 1539337279443,
+            "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\IT Admin\\Documents\\PowerHour 2.0\\PH Demo 1 Project\\PHDemo1\\force-app\\main\\default\\classes\\PaymentGatewayController.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\IT Admin\\Documents\\PowerHour 2.0\\PH Demo 1 Project\\PHDemo1\\force-app\\main\\default\\classes\\PaymentGatewayController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1539337840459,
+            "changeTime": 1539337840459,
+            "contentHash": "0bfc8bc49e53c8f0f6b207cf675766c0d6546ee5",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\IT Admin\\Documents\\PowerHour 2.0\\PH Demo 1 Project\\PHDemo1\\force-app\\main\\default\\classes\\PaymentGatewayController.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\IT Admin\\Documents\\PowerHour 2.0\\PH Demo 1 Project\\PHDemo1\\force-app\\main\\default\\classes\\PaymentGatewayController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1539338391256,
+            "changeTime": 1539338391256,
+            "contentHash": "27b4acbdd68061eb4f9af4789ec451e4ee1e8627"
+        }
+    ],
+    [
+        "C:\\Users\\IT Admin\\Documents\\PowerHour 2.0\\PH Demo 1 Project\\PHDemo1\\force-app\\main\\default\\classes",
+        {
+            "sourcePath": "C:\\Users\\IT Admin\\Documents\\PowerHour 2.0\\PH Demo 1 Project\\PHDemo1\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539337840464,
+            "changeTime": 1539337840464,
+            "contentHash": "28afc9005860d6c77fc89ebf84b4392b3d9f1571",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\IT Admin\\Documents\\PowerHour 2.0\\PH Demo 1 Project\\PHDemo1\\force-app\\main\\default\\standardValueSets\\OpportunityStage.standardValueSet-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\IT Admin\\Documents\\PowerHour 2.0\\PH Demo 1 Project\\PHDemo1\\force-app\\main\\default\\standardValueSets\\OpportunityStage.standardValueSet-meta.xml",
+            "isDirectory": false,
+            "size": 3507,
+            "modifiedTime": 1539337936707,
+            "changeTime": 1539337936707,
+            "contentHash": "7cd6628297dd61e73250286cc21af3a949f5f14d",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\IT Admin\\Documents\\PowerHour 2.0\\PH Demo 1 Project\\PHDemo1\\force-app\\main\\default\\standardValueSets",
+        {
+            "sourcePath": "C:\\Users\\IT Admin\\Documents\\PowerHour 2.0\\PH Demo 1 Project\\PHDemo1\\force-app\\main\\default\\standardValueSets",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539337936707,
+            "changeTime": 1539337936707,
+            "contentHash": "c44b9f2c2c7cc8654de28b324a27e2aebe82bc5f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ]
+]
