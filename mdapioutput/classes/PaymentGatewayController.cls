@@ -3,7 +3,6 @@ public class PaymentGatewayController {
 	// reject this change please
 	@AuraEnabled
     public static String makepaytmPayment(){
-    	// checking on git
         return 'SUCCESS';
     }
 }
