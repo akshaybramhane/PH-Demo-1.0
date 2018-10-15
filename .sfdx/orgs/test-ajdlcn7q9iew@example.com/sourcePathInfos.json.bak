@@ -1,81 +1,78 @@
 [
     [
-        "C:\\Users\\IT Admin\\Documents\\PowerHour 2.0\\PH Demo 1 Project\\PHDemo1\\force-app",
+        "C:\\Users\\IT Admin\\Documents\\PowerHour 2.0\\PH Demo 1 Project\\PHDemo1\\PH-Demo-1.0\\force-app",
         {
-            "sourcePath": "C:\\Users\\IT Admin\\Documents\\PowerHour 2.0\\PH Demo 1 Project\\PHDemo1\\force-app",
+            "sourcePath": "C:\\Users\\IT Admin\\Documents\\PowerHour 2.0\\PH Demo 1 Project\\PHDemo1\\PH-Demo-1.0\\force-app",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1539336310304,
             "changeTime": 1539336310304,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
             "isMetadataFile": false,
-            "state": "n",
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
     ],
     [
-        "C:\\Users\\IT Admin\\Documents\\PowerHour 2.0\\PH Demo 1 Project\\PHDemo1\\force-app\\main",
+        "C:\\Users\\IT Admin\\Documents\\PowerHour 2.0\\PH Demo 1 Project\\PHDemo1\\PH-Demo-1.0\\force-app\\main",
         {
-            "sourcePath": "C:\\Users\\IT Admin\\Documents\\PowerHour 2.0\\PH Demo 1 Project\\PHDemo1\\force-app\\main",
+            "sourcePath": "C:\\Users\\IT Admin\\Documents\\PowerHour 2.0\\PH Demo 1 Project\\PHDemo1\\PH-Demo-1.0\\force-app\\main",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1539336310305,
             "changeTime": 1539336310305,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
             "isMetadataFile": false,
-            "state": "n",
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
     ],
     [
-        "C:\\Users\\IT Admin\\Documents\\PowerHour 2.0\\PH Demo 1 Project\\PHDemo1\\force-app\\main\\default",
+        "C:\\Users\\IT Admin\\Documents\\PowerHour 2.0\\PH Demo 1 Project\\PHDemo1\\PH-Demo-1.0\\force-app\\main\\default",
         {
-            "state": "u",
-            "sourcePath": "C:\\Users\\IT Admin\\Documents\\PowerHour 2.0\\PH Demo 1 Project\\PHDemo1\\force-app\\main\\default",
+            "sourcePath": "C:\\Users\\IT Admin\\Documents\\PowerHour 2.0\\PH Demo 1 Project\\PHDemo1\\PH-Demo-1.0\\force-app\\main\\default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1539337936704,
             "changeTime": 1539337936704,
-            "contentHash": "130de8bfb499104b352aabe71a42cbc685e1ae94"
+            "contentHash": "130de8bfb499104b352aabe71a42cbc685e1ae94",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
-        "C:\\Users\\IT Admin\\Documents\\PowerHour 2.0\\PH Demo 1 Project\\PHDemo1\\force-app\\main\\default\\aura",
+        "C:\\Users\\IT Admin\\Documents\\PowerHour 2.0\\PH Demo 1 Project\\PHDemo1\\PH-Demo-1.0\\force-app\\main\\default\\aura",
         {
-            "sourcePath": "C:\\Users\\IT Admin\\Documents\\PowerHour 2.0\\PH Demo 1 Project\\PHDemo1\\force-app\\main\\default\\aura",
+            "state": "u",
+            "sourcePath": "C:\\Users\\IT Admin\\Documents\\PowerHour 2.0\\PH Demo 1 Project\\PHDemo1\\PH-Demo-1.0\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1539586865676,
+            "changeTime": 1539586865676,
+            "contentHash": "9cc6d8803ad5a28b5af9e01dd53f33446ea33112"
+        }
+    ],
+    [
+        "C:\\Users\\IT Admin\\Documents\\PowerHour 2.0\\PH Demo 1 Project\\PHDemo1\\PH-Demo-1.0",
+        {
+            "sourcePath": "C:\\Users\\IT Admin\\Documents\\PowerHour 2.0\\PH Demo 1 Project\\PHDemo1\\PH-Demo-1.0",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1539336310305,
-            "changeTime": 1539336310305,
-            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "modifiedTime": 1539343507835,
+            "changeTime": 1539343507835,
+            "contentHash": "ac8ebe8fbf8686ccd99613333554bc80e3ff17df",
             "isMetadataFile": false,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u",
+            "isWorkspace": true
         }
     ],
     [
-        "C:\\Users\\IT Admin\\Documents\\PowerHour 2.0\\PH Demo 1 Project\\PHDemo1",
+        "C:\\Users\\IT Admin\\Documents\\PowerHour 2.0\\PH Demo 1 Project\\PHDemo1\\PH-Demo-1.0\\force-app\\main\\default\\classes\\PaymentGatewayController.cls-meta.xml",
         {
-            "sourcePath": "C:\\Users\\IT Admin\\Documents\\PowerHour 2.0\\PH Demo 1 Project\\PHDemo1",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1539337279443,
-            "changeTime": 1539337279443,
-            "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
-            "isMetadataFile": false,
-            "state": "n",
-            "isWorkspace": true,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\IT Admin\\Documents\\PowerHour 2.0\\PH Demo 1 Project\\PHDemo1\\force-app\\main\\default\\classes\\PaymentGatewayController.cls-meta.xml",
-        {
-            "sourcePath": "C:\\Users\\IT Admin\\Documents\\PowerHour 2.0\\PH Demo 1 Project\\PHDemo1\\force-app\\main\\default\\classes\\PaymentGatewayController.cls-meta.xml",
+            "sourcePath": "C:\\Users\\IT Admin\\Documents\\PowerHour 2.0\\PH Demo 1 Project\\PHDemo1\\PH-Demo-1.0\\force-app\\main\\default\\classes\\PaymentGatewayController.cls-meta.xml",
             "isDirectory": false,
             "size": 174,
             "modifiedTime": 1539337840459,
@@ -86,25 +83,25 @@
         }
     ],
     [
-        "C:\\Users\\IT Admin\\Documents\\PowerHour 2.0\\PH Demo 1 Project\\PHDemo1\\force-app\\main\\default\\classes\\PaymentGatewayController.cls",
+        "C:\\Users\\IT Admin\\Documents\\PowerHour 2.0\\PH Demo 1 Project\\PHDemo1\\PH-Demo-1.0\\force-app\\main\\default\\classes\\PaymentGatewayController.cls",
         {
-            "sourcePath": "C:\\Users\\IT Admin\\Documents\\PowerHour 2.0\\PH Demo 1 Project\\PHDemo1\\force-app\\main\\default\\classes\\PaymentGatewayController.cls",
+            "state": "u",
+            "sourcePath": "C:\\Users\\IT Admin\\Documents\\PowerHour 2.0\\PH Demo 1 Project\\PHDemo1\\PH-Demo-1.0\\force-app\\main\\default\\classes\\PaymentGatewayController.cls",
             "isDirectory": false,
-            "size": 42,
-            "modifiedTime": 1539337840464,
-            "changeTime": 1539337840464,
-            "contentHash": "e4fb59f66e9c2672275fed10eb4cd79891595992",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 126,
+            "modifiedTime": 1539586865698,
+            "changeTime": 1539586865698,
+            "contentHash": "a09c9723d327b8ae4fb020a9f4cdb17a72413112"
         }
     ],
     [
-        "C:\\Users\\IT Admin\\Documents\\PowerHour 2.0\\PH Demo 1 Project\\PHDemo1\\force-app\\main\\default\\classes",
+        "C:\\Users\\IT Admin\\Documents\\PowerHour 2.0\\PH Demo 1 Project\\PHDemo1\\PH-Demo-1.0\\force-app\\main\\default\\classes",
         {
-            "sourcePath": "C:\\Users\\IT Admin\\Documents\\PowerHour 2.0\\PH Demo 1 Project\\PHDemo1\\force-app\\main\\default\\classes",
+            "sourcePath": "C:\\Users\\IT Admin\\Documents\\PowerHour 2.0\\PH Demo 1 Project\\PHDemo1\\PH-Demo-1.0\\force-app\\main\\default\\classes",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1539337840464,
+            "modifiedTime": 1539345973897,
             "changeTime": 1539337840464,
             "contentHash": "28afc9005860d6c77fc89ebf84b4392b3d9f1571",
             "isMetadataFile": false,
@@ -112,29 +109,107 @@
         }
     ],
     [
-        "C:\\Users\\IT Admin\\Documents\\PowerHour 2.0\\PH Demo 1 Project\\PHDemo1\\force-app\\main\\default\\standardValueSets\\OpportunityStage.standardValueSet-meta.xml",
+        "C:\\Users\\IT Admin\\Documents\\PowerHour 2.0\\PH Demo 1 Project\\PHDemo1\\PH-Demo-1.0\\force-app\\main\\default\\standardValueSets\\OpportunityStage.standardValueSet-meta.xml",
         {
-            "state": "u",
-            "sourcePath": "C:\\Users\\IT Admin\\Documents\\PowerHour 2.0\\PH Demo 1 Project\\PHDemo1\\force-app\\main\\default\\standardValueSets\\OpportunityStage.standardValueSet-meta.xml",
+            "sourcePath": "C:\\Users\\IT Admin\\Documents\\PowerHour 2.0\\PH Demo 1 Project\\PHDemo1\\PH-Demo-1.0\\force-app\\main\\default\\standardValueSets\\OpportunityStage.standardValueSet-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 3507,
             "modifiedTime": 1539337936707,
             "changeTime": 1539337936707,
-            "contentHash": "7cd6628297dd61e73250286cc21af3a949f5f14d"
+            "contentHash": "7cd6628297dd61e73250286cc21af3a949f5f14d",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
-        "C:\\Users\\IT Admin\\Documents\\PowerHour 2.0\\PH Demo 1 Project\\PHDemo1\\force-app\\main\\default\\standardValueSets",
+        "C:\\Users\\IT Admin\\Documents\\PowerHour 2.0\\PH Demo 1 Project\\PHDemo1\\PH-Demo-1.0\\force-app\\main\\default\\standardValueSets",
         {
-            "state": "u",
-            "sourcePath": "C:\\Users\\IT Admin\\Documents\\PowerHour 2.0\\PH Demo 1 Project\\PHDemo1\\force-app\\main\\default\\standardValueSets",
+            "sourcePath": "C:\\Users\\IT Admin\\Documents\\PowerHour 2.0\\PH Demo 1 Project\\PHDemo1\\PH-Demo-1.0\\force-app\\main\\default\\standardValueSets",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1539337936707,
             "changeTime": 1539337936707,
-            "contentHash": "c44b9f2c2c7cc8654de28b324a27e2aebe82bc5f"
+            "contentHash": "c44b9f2c2c7cc8654de28b324a27e2aebe82bc5f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\IT Admin\\Documents\\PowerHour 2.0\\PH Demo 1 Project\\PHDemo1\\PH-Demo-1.0\\force-app\\main\\default\\aura\\PaymentGatewayApp\\PaymentGatewayApp.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\IT Admin\\Documents\\PowerHour 2.0\\PH Demo 1 Project\\PHDemo1\\PH-Demo-1.0\\force-app\\main\\default\\aura\\PaymentGatewayApp\\PaymentGatewayApp.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1539586865672,
+            "changeTime": 1539586865672,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+        }
+    ],
+    [
+        "C:\\Users\\IT Admin\\Documents\\PowerHour 2.0\\PH Demo 1 Project\\PHDemo1\\PH-Demo-1.0\\force-app\\main\\default\\aura\\PaymentGatewayApp\\PaymentGatewayApp.app",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\IT Admin\\Documents\\PowerHour 2.0\\PH Demo 1 Project\\PHDemo1\\PH-Demo-1.0\\force-app\\main\\default\\aura\\PaymentGatewayApp\\PaymentGatewayApp.app",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 86,
+            "modifiedTime": 1539586865675,
+            "changeTime": 1539586865675,
+            "contentHash": "782484a54e82b57672263109dc76739a87a24cb3"
+        }
+    ],
+    [
+        "C:\\Users\\IT Admin\\Documents\\PowerHour 2.0\\PH Demo 1 Project\\PHDemo1\\PH-Demo-1.0\\force-app\\main\\default\\aura\\PaymentGatewayCmp\\PaymentGatewayCmp.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\IT Admin\\Documents\\PowerHour 2.0\\PH Demo 1 Project\\PHDemo1\\PH-Demo-1.0\\force-app\\main\\default\\aura\\PaymentGatewayCmp\\PaymentGatewayCmp.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1539586865681,
+            "changeTime": 1539586865681,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+        }
+    ],
+    [
+        "C:\\Users\\IT Admin\\Documents\\PowerHour 2.0\\PH Demo 1 Project\\PHDemo1\\PH-Demo-1.0\\force-app\\main\\default\\aura\\PaymentGatewayCmp\\PaymentGatewayCmp.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\IT Admin\\Documents\\PowerHour 2.0\\PH Demo 1 Project\\PHDemo1\\PH-Demo-1.0\\force-app\\main\\default\\aura\\PaymentGatewayCmp\\PaymentGatewayCmp.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1963,
+            "modifiedTime": 1539586865684,
+            "changeTime": 1539586865684,
+            "contentHash": "9b4429004f260dfaa00411d573a4f8d1e13defa0"
+        }
+    ],
+    [
+        "C:\\Users\\IT Admin\\Documents\\PowerHour 2.0\\PH Demo 1 Project\\PHDemo1\\PH-Demo-1.0\\force-app\\main\\default\\aura\\PaymentGatewayApp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\IT Admin\\Documents\\PowerHour 2.0\\PH Demo 1 Project\\PHDemo1\\PH-Demo-1.0\\force-app\\main\\default\\aura\\PaymentGatewayApp",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1539586865673,
+            "changeTime": 1539586865673,
+            "contentHash": "437898637b6f1965aa3e683c98d1a6ba614e7d4b"
+        }
+    ],
+    [
+        "C:\\Users\\IT Admin\\Documents\\PowerHour 2.0\\PH Demo 1 Project\\PHDemo1\\PH-Demo-1.0\\force-app\\main\\default\\aura\\PaymentGatewayCmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\IT Admin\\Documents\\PowerHour 2.0\\PH Demo 1 Project\\PHDemo1\\PH-Demo-1.0\\force-app\\main\\default\\aura\\PaymentGatewayCmp",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1539586865682,
+            "changeTime": 1539586865682,
+            "contentHash": "86bcd468c6dcb44e9685e46b6c91c8c0d2988726"
         }
     ]
 ]
